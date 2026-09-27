@@ -1,1 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
 
+# Virtual environment
+venv/
+.venv/
+
+# Temporary video processing files
+uploads/
+frames/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
